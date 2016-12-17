@@ -1,0 +1,9 @@
+#virtual environment module folder
+virtualenv/
+
+#python build
+__pycache__/
+*.pyc
+
+#environment variables
+.env
